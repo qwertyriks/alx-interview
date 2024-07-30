@@ -1,2 +1,2 @@
 # GitHub repository: alx-interview
-Isaac Kumatse ikumatse@st.edu.gh
+Isaac Kumatse ikumatse@st.ug.edu.gh / romeokumatse@gmail.com
