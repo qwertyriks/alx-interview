@@ -7,6 +7,7 @@ def makeChange(coins, amount):
     How many left. How much money left?
     How many coins in my pocket?
     """
+    
     if amount < 1:
         return 0
     coins.sort(reverse=True)
